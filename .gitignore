@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+ximea_bind/build/
+*.so
+*.a
+*.o
+data/
+output/
+videos/
+logs
+.DS_Store
+Thumbs.db
