@@ -1,0 +1,3 @@
+[submodule "vendor/YOLO11Pose"]
+	path = vendor/YOLO11Pose
+	url = git@github-yt-pose-est:Yuto-Tsujino/YOLO11Pose.git
